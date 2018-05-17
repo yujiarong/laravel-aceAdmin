@@ -8,7 +8,7 @@ laravel  aceAdmin  php后台管理框架
       3. maatwebsite/excel:^2.1  excel,csv,pdf等文件处理
       4. php-amqplib/php-amqplib: ^2.7  rabbitmq队列处理,只需要配置一下参数 ,使用方法在help.php中已经写好.
       5. yajra/laravel-datatables-oracle  lavel datatables 集成使用很方便.
-
+      6. 已经集成登陆,注册和用户管理模块
 
 # 安装步骤
 1. git clone 
