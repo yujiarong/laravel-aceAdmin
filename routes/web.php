@@ -34,7 +34,7 @@ Route::group([
 
 
 
-
-Route::group(['middleware' => ['permission:admin;saler','auth']], function () {
-    includeRouteFiles(__DIR__.'/Backend/');
-});
+//分模块管理路由
+// Route::group(['middleware' => ['permission:admin;saler','auth']], function () {
+//     includeRouteFiles(__DIR__.'/Backend/');
+// });
